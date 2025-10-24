@@ -1,1 +1,1 @@
-# ElevateLAB_Final-project
+# Open Source GitHub Project Explorer
